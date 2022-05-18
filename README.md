@@ -7,3 +7,4 @@ This repository contains all the my homeworks for the CS 530 course.
 * `Neural Networks Part 1.ipynb`: In this notebook, I implement a neural network using keras to predict house prices
 * `Neural Networks Part 2.ipynb`: In this notebook, I fine tune a HuggingFace model that classify tweets as ironic
 * `Random Forest.ipynb`: In this notebook, I implement a Random Forest algorithm by hand. Later, I trained and test it on the famous iris data set, and compare my result with the `scikit-learn`'s built-in Random Forest. `scikit-learn`'s one was much better than mine.
+* `Decision Trees.ipynb`:  In this notebook, I implement a Decision Tree by hand. I trained the model on a data set that shows information that shows weather conditions for tennis matches. The idea is to predict whether the match was played or not. I then compared the results of my algorithm to the built-in in `scikit-learn`.
