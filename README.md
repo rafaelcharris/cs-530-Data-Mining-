@@ -10,7 +10,6 @@ These notebooks have 'hand-made' versions of different alogithtms and I compare 
 * `Decision Trees.ipynb`:  In this notebook, I implement a Decision Tree by hand. I trained the model on a data set that shows information that shows weather conditions for tennis matches. The idea is to predict whether the match was played or not. I then compared the results of my algorithm to the built-in in `scikit-learn`.
 * `LinearRegression.ipynb`: In this notebook, I implement an OLS regression 'by hand' on a data set of school achievement in portuguesse high schools. Different to how it is used in economics and other social sciences, I use the OLS to predict grades in a test dataset in a Machine Learning fashion.
 
-____
 ## Aplications
 
 In these notebooks, I 
