@@ -12,7 +12,7 @@ These notebooks have 'hand-made' versions of different alogithtms and I compare 
 
 ## Aplications
 
-In these notebooks, I 
+In these notebooks, I train 'sckit-learn' and keras models on example data sets.
 
 * `Neural Networks Part 1.ipynb`: In this notebook, I implement a neural network using keras to predict house prices
 * `Neural Networks Part 2.ipynb`: In this notebook, I fine tune a HuggingFace model that classify tweets as ironic
